@@ -11,7 +11,9 @@ GestorDeProductosConSpringBootYMyBatis es una aplicación backend moderna y robu
 
 Ofrece una API RESTful para realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) de manera sencilla y eficiente.
 
----
+## 🧠 ¿Qué es MyBatis?
+
+> **MyBatis** es un framework de persistencia para Java que facilita la interacción con bases de datos. Permite ejecutar consultas SQL directamente desde el código, mapeando resultados a objetos Java.  
 
 ## ✨ Características principales
 
