@@ -1,10 +1,5 @@
 # 🚀 Gestor De Productos Con SpringBoot  Y MyBatis
 
-![banner](https://user-images.githubusercontent.com/123456789/your-banner.gif)  
-*Ejemplo animado de la aplicación en acción*  
-
----
-
 ## 📋 Descripción
 
 GestorDeProductosConSpringBootYMyBatis es una aplicación backend moderna y robusta para la gestión de productos, categorías y proveedores en una tienda, desarrollada con:
